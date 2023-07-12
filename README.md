@@ -330,3 +330,4 @@ While !Eof()
 EndDo
 dbCloseArea()
 dbSelectArea(cBkp)
+return
